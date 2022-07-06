@@ -30,7 +30,7 @@ This Code Written in the C++ Only.
   
 
 ## Using…
- 1. git clone https://github.com/Prajwalpal10/MOS-Multi-Programming-OS-.git
+ 1. git clone https://github.com/Prajwalpal10/MOS-Phase1.git
 
  2. Edit input.txt for Your Instruction &Jobs.
  3. Compile And Run The Mos_Phase-1.cpp
