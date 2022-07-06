@@ -2,11 +2,9 @@ This is my Operating System Course Project
 
 A Virtual Implemention of routines of OS.
 
-Project consited of three phases. Phase3 is final phase for project.
+This is a first Phase of MOS
 
-Works for any no. of jobs. Supports input spooling, output spooling, paging.
-
-First two phases consist of only C code.Phase 3 consist of python wrapper over original code.
+This Code Written in the C++ Only.
 
 ## MOS(Multiprogramming Operating System)
  - Used for execution of multiple jobs
