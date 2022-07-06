@@ -28,7 +28,8 @@ First two phases consist of only C code.Phase 3 consist of python wrapper over o
  - There is $DTA after declaration of program cards and before data cards
  - Job should end with $END
 ## Tools used
- - Gcc compiler
+ - Gcc c++ compiler
+  
 
 ## Using…
  1. git clone https://github.com/Prajwalpal10/MOS-Multi-Programming-OS-.git
